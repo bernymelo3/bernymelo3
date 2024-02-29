@@ -32,8 +32,8 @@
 - Bachelor of Engineering (Computer Science), Instituto Superior Técnico, Lisbon Portugal, 2023.
 
 🌟 **Certifications:**
-- IBM Cybersecurity Fundamentals
-- EESTech Challenge (Cybersecurity)
+- [EESTech Challenge Cybersecurity](https://drive.google.com/file/d/1atbhwpuEBDthkp51RYIMc2FxOL6HJpBs/view)
+- [IBM Cybersecurity Fundamentals](https://www.credly.com/badges/326dc3c1-92bb-4c4f-9c92-22f3e8c6891b/linked_in_profile) 
 - [Blockchain Deep Dive](https://academy.binance.com/en/courses/certificate/60cf5fa0cbd002061cbd85d5faecaf40de9d979a01a125f784ffe4dda8b59c14)
 - [Cryptocurrency Deep Dive](https://academy.binance.com/en/courses/certificate/a496fe981a479de40516d9992bdf1ce07d264f9c703f4b72fc91a05c1c776ba7)
 - [DApps Deep Dive](https://academy.binance.com/en/courses/certificate/d68f661664caae3b5d34c184e89668dcb15505e2957fc21737a7ca5295865f07)

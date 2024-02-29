@@ -34,5 +34,9 @@
 🌟 **Certifications:**
 - IBM Cybersecurity Fundamentals
 - EESTech Challenge (Cybersecurity)
+- [Blockchain Deep Dive](https://academy.binance.com/en/courses/certificate/60cf5fa0cbd002061cbd85d5faecaf40de9d979a01a125f784ffe4dda8b59c14)
+- [Cryptocurrency Deep Dive](https://academy.binance.com/en/courses/certificate/a496fe981a479de40516d9992bdf1ce07d264f9c703f4b72fc91a05c1c776ba7)
+- [DApps Deep Dive](https://academy.binance.com/en/courses/certificate/d68f661664caae3b5d34c184e89668dcb15505e2957fc21737a7ca5295865f07)
+- [DeFi Deep Dive](https://academy.binance.com/en/courses/certificate/5f1f5e85e357227301ce32f403e95ea294be22ab4880f5585434b8b1288818ca)
 
 Let's connect and explore innovative solutions together in the realms of cybersecurity and blockchain!

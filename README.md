@@ -32,6 +32,7 @@
 - Bachelor of Engineering (Computer Science), Instituto Superior Técnico, Lisbon Portugal, 2023.
 
 🌟 **Certifications:**
+- [ISO 27001]([https://academy.binance.com/en/courses/certificate/5f1f5e85e357227301ce32f403e95ea294be22ab4880f5585434b8b1288818ca](https://bsi.my.salesforce-sites.com/training/certificateVerification?shareId=3e91f095432584120466a6c309506d9b5178c6fd))
 - [EESTech Challenge Cybersecurity](https://drive.google.com/file/d/1atbhwpuEBDthkp51RYIMc2FxOL6HJpBs/view)
 - [IBM Cybersecurity Fundamentals](https://www.credly.com/badges/326dc3c1-92bb-4c4f-9c92-22f3e8c6891b/linked_in_profile) 
 - [Blockchain Deep Dive](https://academy.binance.com/en/courses/certificate/60cf5fa0cbd002061cbd85d5faecaf40de9d979a01a125f784ffe4dda8b59c14)

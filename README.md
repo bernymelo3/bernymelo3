@@ -1,43 +1,79 @@
 # Bernardo Couto Melo
 
-👋 Hi there, I'm Bernardo - a Tech Innovator with a strong footing in Cybersecurity and Blockchain technologies. With a Bachelor of Engineering in Computer Science from Instituto Superior Técnico, Lisbon, I've developed a unique blend of skills that fuel innovation and ensure robust security in the digital world.
+## Cybersecurity Analyst & Blockchain Developer
 
-🔭 **Current Work:**
-- Developing cutting-edge blockchain solutions to enhance digital currency exchanges.
-- Innovating in cybersecurity with a focus on encryption, network security, and ethical hacking. 
-- I'm constantly exploring new ways to safeguard digital assets.
+👋 Hi there, I'm Bernardo - a Cybersecurity Professional and Web3 Enthusiast with a strong background in secure software development. With a Bachelor in Computer Science and Engineering from Instituto Superior Técnico, Lisbon, I combine enterprise security expertise with cutting-edge blockchain innovation.
 
-🌱 **I'm currently learning:**
-- Advanced blockchain architectures and smart contract development to drive the next wave of decentralized applications.
-- Latest trends in AI-powered cybersecurity measures, deepening my knowledge in areas like machine learning and natural language processing to anticipate and neutralize threats.
+### 🔒 Professional Experience
 
-💬 **Ask me about:**
-- Blockchain development, including distributed ledgers and smart contracts.
-- Cybersecurity strategies, from foundational practices to advanced threat modeling and mitigation techniques.
+- **Cybersecurity Analyst at Deloitte** (April 2024 - Present)
+  - Analyzing enterprise architectures to identify security risks in Financial Institutions
+  - Leading third-party risk management processes and vendor security assessments
+  - Implementing NIS2 Directive compliance frameworks and GenAI-based security solutions
+  - Architecting Kubernetes security configurations for microservices environments
+  - Conducting Business Continuity and DORA Compliance assessments for banking clients
 
-📫 **How to reach me:**
-- LinkedIn: [bernardomelodc](https://www.linkedin.com/in/bernardomelodc/)
-- Portfolio: [www.bernardomelo.xyz](http://www.bernardomelo.xyz)
+### 🔗 Web3 & Blockchain Focus
 
-🛠 **Skills & Technologies:**
-- Languages: Python, Java, C, C++, JavaScript, TypeScript, SQL, NoSQL.
-- Technologies: Blockchain, Ethereum, Hyperledger, AWS, Azure, Google Cloud, Docker, Kubernetes, CI/CD, Git, TensorFlow, PyTorch.
-- Cybersecurity: Ethical Hacking, Encryption, Network Security, Firewalls.
+- **Smart Contract Security Audit Project** (2024-2025)
+  - Developing comprehensive security frameworks for vulnerability assessment
+  - Creating parallel architectures showcasing secure implementation patterns
+  - Establishing security requirements for DeFi protocols with reentrancy prevention
+  - Technologies: Solidity, Hardhat, TypeScript, OpenZeppelin libraries
 
-👨‍💻 **Projects:**
-- **Distributed Ledger**: A Java-based platform for digital currency exchanges, enhancing transaction efficiency and security.
-- **Nutri Label OCR**: A SaaS OCR solution leveraging Azure Form Recognizer and Google Cloud Vision AI, integrated with OpenAI's GPT-3 for advanced data processing and analysis.
+- **SolToken Manager**
+  - Building a comprehensive Solana token management system with Rust and Anchor
+  - Implementing secure token vaults and automated trading strategies
+  - Demonstrating deep knowledge of Solana's architecture and best practices
+  - Skills utilized: Rust, Anchor Framework, TypeScript, React
 
-🎓 **Education:**
-- Bachelor of Engineering (Computer Science), Instituto Superior Técnico, Lisbon Portugal, 2023.
+- **Distributed Ledger Architecture**
+  - Designed a secure Java-based distributed ledger for digital currency exchanges
+  - Applied Web3 security principles and smart contract verification techniques
+  - Developed fault-tolerant transaction validation systems
 
-🌟 **Certifications:**
-- [ISO 27001](https://bsi.my.salesforce-sites.com/training/certificateVerification?shareId=3e91f095432584120466a6c309506d9b5178c6fd)
-- [EESTech Challenge Cybersecurity](https://drive.google.com/file/d/1atbhwpuEBDthkp51RYIMc2FxOL6HJpBs/view)
-- [IBM Cybersecurity Fundamentals](https://www.credly.com/badges/326dc3c1-92bb-4c4f-9c92-22f3e8c6891b/linked_in_profile) 
-- [Blockchain Deep Dive](https://academy.binance.com/en/courses/certificate/60cf5fa0cbd002061cbd85d5faecaf40de9d979a01a125f784ffe4dda8b59c14)
-- [Cryptocurrency Deep Dive](https://academy.binance.com/en/courses/certificate/a496fe981a479de40516d9992bdf1ce07d264f9c703f4b72fc91a05c1c776ba7)
-- [DApps Deep Dive](https://academy.binance.com/en/courses/certificate/d68f661664caae3b5d34c184e89668dcb15505e2957fc21737a7ca5295865f07)
-- [DeFi Deep Dive](https://academy.binance.com/en/courses/certificate/5f1f5e85e357227301ce32f403e95ea294be22ab4880f5585434b8b1288818ca)
+### 🛠️ Technical Skills
 
-Let's connect and explore innovative solutions together in the realms of cybersecurity and blockchain!
+#### Web3 & Blockchain
+- Smart Contract Security & Development
+- Solidity, Rust, Anchor Framework
+- DeFi Security Architecture
+- Hardhat, Web3.js, OpenZeppelin
+- Token & Vault System Design
+
+#### Cybersecurity
+- Enterprise Security Architecture
+- IAM Solutions (SailPoint)
+- DORA/NIS2 Compliance
+- PKI Infrastructure Analysis
+- Kubernetes Security
+
+#### Development
+- Rust, Solidity, Assembly
+- TypeScript, React, Next.js
+- Node.js, NestJS, Prisma
+- CI/CD, Docker, Kubernetes
+- AWS, Azure, GCP
+
+### 🎓 Education & Certifications
+
+- **Bachelor in Computer Science and Engineering**
+  - Instituto Superior Técnico, Lisbon (2023)
+
+- **Certifications**
+  - Lead Implementing and Lead Auditing ISO/IEC 27001:2022 - BSI
+  - Blockchain Deep Dive - Binance Academy
+  - DeFi Deep Dive - Binance Academy
+  - DApps Deep Dive - Binance Academy
+  - Cryptocurrency Deep Dive - Binance Academy
+  - IBM Cybersecurity Fundamentals
+
+### 📫 Connect With Me
+
+- **LinkedIn:** [bernardomelodc](https://www.linkedin.com/in/bernardomelodc/)
+- **Email:** bernardomelodc@gmail.com
+- **Portfolio:** [www.bernardomelo.xyz](http://www.bernardomelo.xyz)
+
+---
+
+I'm passionate about securing the Web3 ecosystem and building robust decentralized applications that merge enterprise-grade security with blockchain innovation. Let's connect and collaborate on the future of secure decentralized systems!
